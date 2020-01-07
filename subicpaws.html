@@ -69,14 +69,14 @@
 									<header class="major">
 										<h1>PROJECT-SUBIC PAWS</h1>
 									</header>
-									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+									<img src="images/pic11.jpg" alt="" /></span>
 									
 									<p><h2><a href="#"></a>Landing Page </a></h2></p>   	
                                     <a class="image fit">
                                             <img src="images/subicpaws/Subic Paws- Landing Page.png" alt="A simple mock-up design" onclick="changeImage()" /></a>
                                             
 
-									<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+									<img src="images/pic11.jpg" alt="" /></span>
 									
 									<p><h2><a href="#"></a>About us Page </a></h2></p>	
                                     <a  class="image fit">
@@ -102,28 +102,41 @@
 					 
 
 			</div>
+<!-- Footer -->
 					<footer id="footer">
 						<section>
-							<form method="post" action="#">
+
 								<div class="fields">
 									<div class="field">
 										<label for="name">Name</label>
-										<input type="text" name="name" id="name" />
+										<input type="text" name="name" id="name"/>
 									</div>
 									<div class="field">
+										<br>
 										<label for="email">Email</label>
-										<input type="text" name="email" id="email" />
+										<input type="text" name="Nemail" id="val1" />
+										<br>
 									</div>
 									<div class="field">
+										<br>
 										<label for="message">Message</label>
-										<textarea name="message" id="message" rows="3"></textarea>
+										<Input type="text" name="Nmessage" id="val2" rows="3" />
+										<br>
+										 
+									 
 									</div>
 								</div>
 								<ul class="actions">
-									<li><input type="submit" value="Send Message" /></li>
+									<li>
+										<br>
+										<button onclick="myFunction()">Send Message</button>
+								 </li>
 								</ul>
+
 							</form>
 						</section>
+
+
 						<section class="split contact">
 							<section class="alt">
 								<h3>Address</h3>
@@ -132,7 +145,7 @@
 							</section>
 							<section>
 								<h3>Phone</h3>
-								<p><a href="#">(000) 000-0000</a></p>
+								<p><a href="#">+971 52 326 9177</a></p>
 							</section>
 							<section>
 								<h3>Email</h3>
@@ -148,6 +161,7 @@
 							</section>
 						</section>
 					</footer>
+<!-- Footer -->					
 
 				<!-- Copyright -->
 					<div id="copyright">
@@ -156,14 +170,45 @@
 
 			</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+			<script type="text/javascript">
+				function myFunction() {
+				var a = document.getElementById("val1").value;
+				var b = document.getElementById("val2").value;
+					Email.send({
+				
+					  // change
+					Host : "smtp.elasticemail.com",
+				
+					// change
+					Username : "marquiazucena@gmail.com",
+				
+					// change
+					Password : "E3C3CE974F21A4022E1BC52C4B22626EE531",
+				
+					// email mo
+					To : 'marquiazucena@gmail.com',
+				
+					// email mo
+					From : 'marquiazucena@gmail.com',
+				
+				
+					Subject : "This is the subject",
+					Body : b + a
+				}).then(
+				  message => alert(message)
+				);
+				}
+				  </script>
+						<!-- Scripts -->
+							<script src="assets/js/jquery.min.js"></script>
+							<script src="assets/js/jquery.scrollex.min.js"></script>
+							<script src="assets/js/jquery.scrolly.min.js"></script>
+							<script src="assets/js/browser.min.js"></script>
+							<script src="assets/js/breakpoints.min.js"></script>
+							<script src="assets/js/util.js"></script>
+							<script src="assets/js/main.js"></script>
+							<script src="https://smtpjs.com/v3/smtp.js"></script>
+				
+					</body>
+				</html>
+				
