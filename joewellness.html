@@ -63,7 +63,7 @@
 									<header class="major">
 										<h1>PROJECT- JOE-WELLNESS CENTER</h1>
 									</header>
-                                    <span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+                                   <img src="images/pic11.jpg" alt="" />
 
                                     <a href="subicpaws.html	" class="image fit">
                                             <img src="images/Joewellness Logo/wellnesslogo.png" alt="A simple mock-up design" onclick="changeImage()" /></a>
@@ -89,45 +89,78 @@
 					</div>
 
 			
-							<section class="split">
-								<section>
-									<div class="contact-method">
-										<span class="icon solid alt fa-envelope"></span>
-										<h3>Email</h3>
-										<a href="#">information@untitled.tld</a>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon solid alt fa-phone"></span>
-										<h3>Phone</h3>
-										<span>(000) 000-0000 x12387</span>
-									</div>
-								</section>
-								<section>
-									<div class="contact-method">
-										<span class="icon solid alt fa-home"></span>
-										<h3>Address</h3>
-										<span>1234 Somewhere Road #5432<br />
-										Nashville, TN 00000<br />
-										United States of America</span>
-									</div>
-								</section>
-							</section>
-						</div>
+					<section class="split contact">
+						<section class="alt">
+							<h3>Address</h3>
+							<p>Dubai, UAE<br />
+							</p>
+						</section>
+						<section>
+							<h3>Phone</h3>
+							<p><a href="#">+971 52 326 9177</a></p>
+						</section>
+						<section>
+							<h3>Email</h3>
+							<p><a href="#">marquiazucena@gmail.com</a></p>
+						</section>
+						<section>
+							<h3>Social</h3>
+							<ul class="icons alt">
+								<li><a href="https://www.behance.net/marquigabriele" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+								<li><a href="https://github.com/marquicruz" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								<li><a href="https://www.instagram.com/marquicruise/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							</ul>
+						</section>
 					</section>
+				</footer>
+<!-- Footer -->					
 
+			<!-- Copyright -->
+				<div id="copyright">
+					<ul><li>Copyright &copy; 2019 </li><li>Designed by Marqui Cruz </a></li></ul>
+				</div>
 
-			</div>
+		</div>
 
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.scrollex.min.js"></script>
-			<script src="assets/js/browser.min.js"></script>
-			<script src="assets/js/breakpoints.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
-</html>
+		<script type="text/javascript">
+			function myFunction() {
+			var a = document.getElementById("val1").value;
+			var b = document.getElementById("val2").value;
+				Email.send({
+			
+				  // change
+				Host : "smtp.elasticemail.com",
+			
+				// change
+				Username : "marquiazucena@gmail.com",
+			
+				// change
+				Password : "E3C3CE974F21A4022E1BC52C4B22626EE531",
+			
+				// email mo
+				To : 'marquiazucena@gmail.com',
+			
+				// email mo
+				From : 'marquiazucena@gmail.com',
+			
+			
+				Subject : "This is the subject",
+				Body : b + a
+			}).then(
+			  message => alert(message)
+			);
+			}
+			  </script>
+					<!-- Scripts -->
+						<script src="assets/js/jquery.min.js"></script>
+						<script src="assets/js/jquery.scrollex.min.js"></script>
+						<script src="assets/js/jquery.scrolly.min.js"></script>
+						<script src="assets/js/browser.min.js"></script>
+						<script src="assets/js/breakpoints.min.js"></script>
+						<script src="assets/js/util.js"></script>
+						<script src="assets/js/main.js"></script>
+						<script src="https://smtpjs.com/v3/smtp.js"></script>
+			
+				</body>
+			</html>
+			
