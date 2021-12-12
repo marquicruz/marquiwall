@@ -55,17 +55,12 @@
 								<a href="index.html#Disrupt-X"  class=" icon">
 										<i class="fa fa-chevron-left" aria-hidden="true"></i> Go back.</a>
 
-										<h1>PROJECT- Bluetooth IoT Product Packaging</h1>
+										<h1>PROJECT- Business Card Design</h1>
 									</header>
 									
 								
-                                        <p><h2> Product Packaging Design</h2></p>
-                                        <p>A detailed and a straight-forward packaging box designed for Internet of Things Integration
-										<br> The Packaging box is finished through a touch of dark look emphasizing relevance to stronger security which is the main
-										core of the IoT device of Bluetooth Padlock hardware from Disrupt-X. 
-										<p style= "font-weight:bold;">
-                                      	Disrupt-X is a company focusing on IoT Platform, Big Data, SaaS, Application Development, Machine Learning, 
-										<br>and Artificial Intelligence. 
+                                        <p><h2> Lorem Ipsum Logo- Business Card</h2></p>
+                                        <p>A simple mix of dark and lite shade with a touch of neon lorem ipsum logo being emphasized. 
 										<p>
 										</p>
                                         
@@ -77,37 +72,34 @@
                                                 </a>
                                                 <li>Adobe Illustrator.</li>
                                                 <li>Adobe XD.</li>
-												<br>
-                                                <li> -Esko.</li>
+												<li>Adobe Photoshop.</li>
 												</li>
                                             </ul>
 											 
                                             <H6> Creative Fields: </H6>
-                                            <p> Graphic Design, Product Packaging</p>
+                                            <p> Graphic Design, Branding, Printing</p>
                                         </p>
 
 
 
 									<p><h2><a href="#">
-
-										</a>Product Packaging (Unfolded) </a></h2></p>
-                                    	<a class="image fit">
-                                         <img src="images/Productpackaging/Bluetooth IoT Padlock- Whole.JPG" alt="Product Packaging (Unfolded)"
-                                         onclick="changeImage()" />
+										</a></a></h2></p>
+                                     	<a class="image fit">
+                                         <img src="images/logoipsum/Logo Ipsum Business Card.jpg" alt="Business Card" onclick="changeImage()" />
                                      	</a>
 
 									<p><h2><a href="#">
 
 										</a></a></h2></p>
                                     	<a class="image fit">
-                                         <img src="images/Productpackaging/Bluetooth IoT Padlock.JPG" alt="Bluetooth IoT Padlock" onclick="changeImage()" />
+                                         <img src="images/logoipsum/Logo Ipsum Business Card Front.png" alt="Business Card- Front" onclick="changeImage()" />
                                      	</a>
 										
 									<p><h2><a href="#">
 
 										</a></a></h2></p>
                                     	<a class="image fit">
-                                         <img src="images/Productpackaging/Bluetooth IoT Padlock_ Top and Back View.JPG" alt="Bluetooth IoT Padlock_ Top and Back View" onclick="changeImage()" />
+                                         <img src="images/logoipsum/Logo Ipsum Business Card Back.png" alt="Business Card- Back" onclick="changeImage()" />
                                      	</a>
 							    <section>
                                           
