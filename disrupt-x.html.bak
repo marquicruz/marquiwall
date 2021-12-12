@@ -133,7 +133,7 @@
 
 							    <section>
                                            <ul class="actions special">
-												<li><a href="https://disrupt-x.io/" class="button">View Website</a></li>
+												<li><a href="https://disrupt-x.io/" class="button" class="target="_blank">View Website</a></li>
 										</ul>
                                 </div>
                                 </section>
