@@ -1,0 +1,602 @@
+v<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Marqui Cruz | Designer </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+						<h1>MARQUI'S WALL<br />
+						</h1>
+						<p style="font-family: Calibri light; font-style: normal;">A showcase of my project and abilities in the Design Field. 
+							<p style="font-size: 15px;font-style: normal;"> Feel free to check my LinkedIn page. 
+								<a href="http://www.linkedin.com/in/marquicruz">Right here</a>.</p></p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Let's go.</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">about</a></li>
+							<li><a href="designprocess.html">Design Process</a></li>
+							<!-- <li><a href="elements.html">Elements Reference</a></li> -->
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.behance.net/marquigabriele" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+							<li><a href="https://github.com/marquicruz" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.instagram.com/marquicruise/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									<span class="date" id="littlebio"> - -</span>
+									<h2><a href="#littlebio" class="scrolly">Hi, I'm Marqui.<br />
+									This is my portfolio</a></h2>
+									<p>Hi there! Call me Marqui. I'm an IT graduate, with an experienced level of work in the Technology Industry,
+										I've always loved technology and whatever is involved in it such as Digital Design, Web design- well mainly, design. 
+										I've always been fascinated with any ideas involving it, vector illustration, color, images, layouts, 
+										photography, infographics, video editing, UI/UX, and all that. 
+										I'm continuously developing the portfolio for the development of this particular interest, skill and profession.</p>
+
+
+								</header>
+								<a class="image main"><img src="images/marquisabeach.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="#aboutmarquiID" class="button large scrolly">Full Story</a></li>
+								
+								</ul>
+							</article>
+
+						<!-- aboutmarquiID -->
+							<section class="AboutMarqui" id="aboutmarquiID">
+						    <!-- P1 ABOUT ME -->
+							    <h2>Hello, welcome to my humble little world.</h2>	
+								
+									<p>I'm currently working as a Web UI/UX designer, managing SEO, and also doing graphic designing for an IoT platform company in Dubai, UAE.
+										I have worked in Accenture Philippines as an Associate Software Engineer working in the information technology and application support industry.
+										<br>
+										Skilled in Adobe Design Programs, Visual Basic, Microsoft Office, SQL, SEO, 
+										Digital Photography, WordPress, HTML5, CSS3, SASS with basic knowledge in JavaScript.</p>
+											
+										<p>As for graphic designing, it's one of what I mainly do. My experience involves different phases in this particular field.
+										Let's just say it includes logo designing, infographics, branding, product package designing, leaflets, business cards and etc. 
+										I also enjoy creating infomercial videos as I started that way before my internship until this date.
+										
+										
+										<p style="font-style: italic; font-weight:bold;">I am always looking for an opportunity to maximize my skills in creative design in 
+										any industry.</p>
+									</p>
+						    <!-- P2 ABOUT ME -->
+												
+									<p>I discovered my insatiable curiosity for design when I began doodling random names on any whitespace I could find back in grade school. 
+										It kind of upgraded as I continue in middle school and eventually, in my college days as it brought me a fuelled sense of satisfaction 
+										when creativity is involved.I can solve problems through it and everything feels light and right. 
+										Inevitably, this led me onto a path of self-discovery.</p>
+										
+										<p>I’m an avid dreamer who enjoys playing with colors 
+										and making a positive impact through design. 
+										I specialize in UI/UX design for web/mobile, do photography, editing, and graphic designing.
+										I also dabble a bit in Web Development when needed.
+										<p>I enjoy listening to music, playing music, listening to podcasts, 
+										spending time with people, hearing their stories, drinking tea, getting to know cultures, and exploring cities. </p>
+									</p>
+									<p style="font-style: italic; font-weight:bold;">Art. Music. Creativity. Yup, I am that girl. Nice to meet you!</p>
+							</section>
+					<!-- end of aboutmarquiID -->
+
+						<!-- Posts -->
+							<section class="posts" id="postsid">
+
+						<!-- Start of Kidphotography article. -->								
+								<article>
+									<header>
+										<span class="date" id="littlehappiness">2018.</span>
+										<h2><a> Little Moments. <br />
+											Photography.</a></h2>
+									</header>
+									<a href="#littlehappiness" class="image fit scrolly">
+										<img src="images/Kid.jpg" alt="Event Photography" onclick="changeImage()" />
+									</a>
+									<br>
+									<h4>Kid shot. Learning Center.</h4>
+									<ul class="actions special">
+										<li>
+											<a href="learningcenter.html" class="button">See more</a>
+										</li>
+									</ul>
+									
+								</article>
+						<!-- End of Kidphotography article. -->		
+
+						<!-- Start of Subic Photography article. -->								
+						<article>
+								<header>
+									<span class="date">2017.</span>
+									<h2><a id="splashedgradient">Splashed Gradient.<br />
+										PHOTOGRAPHY</a></h2>
+								 </header>
+								<a href="#splashedgradient" class="image fit scrolly">
+									<img src="images/LIGHTROOM PHOTOGRAPHY/SplashedGradient.jpg" alt="" />
+								</a>
+									<h4>Experimental. The Afterparty.<h4>	
+									<ul class="actions special">
+										<li>
+											<a href="https://unsplash.com/photos/SYCbpVLLVrY" class="button">See More</a>
+										</li>
+									</ul>
+							</article>
+					<!-- End of Subic Photography article. -->	
+							
+						<!-- Start of Liwa Photography article. 	-->									
+
+							
+
+								<article>
+									<header>
+										<span class="date ">2019.</span>
+										<h2><a  id="escapingreality">Escaping Reality.<br />
+										PHOTOGRAPHY</a></h2>
+									</header>
+									<a href="#escapingreality" class="image fit scrolly"><img src="images/LIGHTROOM PHOTOGRAPHY/EscapingReality.jpg" alt="" /></a>
+									
+									<h4>Saturated. At the Beach.<h4>	
+											<ul class="actions special">
+													<li><a href="https://unsplash.com/photos/PapDY7VXa5w" class="button">See More</a></li>
+											</ul>
+								</article>
+						<!-- End of Liwa Photography article. -->	
+
+						<!-- Start of Lubao Photography article. -->								
+								<article>
+									<header>
+										<span class="date">2018.</span>
+										<h2><a id="screamingcolors">Screaming Colors.<br />
+											PHOTOGRAPHY</a></h2>
+									</header>
+									<a href="#screamingcolors" class="image fit scrolly">
+										<img src="images/LIGHTROOM PHOTOGRAPHY/ScreamingColors.jpg" alt="" />
+									</a>
+									<br>
+									<br>
+									<h4>Luminance. At the Festival.<h4>	
+											<ul class="actions special">
+													<li><a href="https://www.behance.net/gallery/67325021/Screaming-Colors" class="button">See More</a></li>
+											</ul>
+								</article>
+						<!-- End of Lubao Photography article. -->	
+
+
+
+						<!-- Start of Kiel's article. -->								
+						<article>
+								<header>
+									<span class="date" id="kielnavarro">2017.</span>
+									<h2><a>Not Lifeless. <br />
+										Photography</a></h2>
+								</header>
+								<a href="#kielnavarro" class="image fit scrolly">
+									<img src="images/Kiel.jpg" alt="Fun Photoshoot" onclick="changeImage()" /></a>
+									<h4>Fun Photoshoot. Subic Bay.</h4> 
+								<ul class="actions special">
+									<li><a href="liberty.html" class="button">See more</a></li>
+								</ul>
+								
+							</article>
+					<!-- End of Kiel's article. -->	
+
+						<!-- Start of Carl's Photography -->
+								<article>
+									<header>
+										<span class="date">2018.</span>
+										<h2><a id="CarlCaraig">Be Free.<br />
+										Photography</a></h2>
+									</header>
+									<a href="#CarlCaraig" class="image fit scrolly"><img src="images/Carlito.jpg" alt="" /></a>
+									<h4>Warm Gradient. Zambales.<h4>	
+											<ul class="actions special">
+													<li><a href="https://unsplash.com/photos/PRdCtenr-KE" class="button">See More</a></li>
+											</ul>
+								</article>
+						<!-- End of Carls -->
+			 
+
+					<!-- Start of Logo Ipsum Business Card.  -->								
+						<article>
+								<header>
+									<span class="date" id="logoipsum">2021.</span>
+									<h2><a id="logoipsum">Logo Ipsum. 
+										<br />Business Card Design</a></h2>
+								</header>
+								<a href="#logoipsum" class="image fit scrolly">
+									<img src="images/logoipsum/Logo Ipsum Business Card.jpg" alt="Logo Ipsum Business Card" onclick="changeImage()" />
+								</a>
+								<h4>Business Card. Dubai, UAE.</h4>
+									<ul class="actions special">
+										<li><a href="loremipsum-businesscard.html" class="button">See more</a></li>
+									</ul>
+							</article>
+					<!-- End of Logo Ipsum Business Card. -->						
+
+					<!-- Start of Bluetooth IoT Padlock Product Packaging. -->								
+						<article>
+								<!-- <header> -->
+								<header>
+									<span class="date" id="smartbluetooth">2021.</span>
+									<h2><a id="smartbluetooth">Bluetooth IoT Padlock. 
+										<br />Product Packaging Design</a></h2>
+								</header>
+								<a href="#smartbluetooth" class="image fit scrolly">
+								<br>
+									<img src="images/Productpackaging/Bluetooth IoT Padlock.JPG" alt="Bluetooth Padlock Packaging" onclick="changeImage()" />
+								</a>
+
+								<h4>IoT Device Packaging. Dubai, UAE.</h4>
+									<ul class="actions special">
+										<li><a href="productpackaging-IoTPadlock.html" class="button">See more</a></li>
+									</ul>
+							</article>
+					<!-- End of Bluetooth IoT Padlock Product Packaging -->
+							
+					<!-- Start of Disrupt- X Logo -->
+						<article>
+							<header>
+								<span class="date">2020.</span>
+								<h2><a id="DisruptXLogo">Disrupt- X.<br />
+								LOGO</a></h2>
+							</header>
+							<a href="#DisruptXLogo" class="image fit scrolly">
+								<img style="width:90%;margin-left: 20px"src="images/DisruptXLogo/disrupt-x logo-lndscp.png" alt="" />
+							</a>
+							<br>
+							<h4>Technological Innovation Company. Dubai, UAE.<h4>
+
+									<ul class="actions special">
+											<li><a href="Disrupt- X logo.html" class="button">See More</a></li>
+									</ul>
+						</article>
+
+					<!-- Ending of Disrupt- X Logo -->
+					
+					<!-- Start of Joewellness Branding -->
+						<article>
+								<header>
+									<span class="date">2017.</span>
+									<h2><a id="joewellness">Joe-wellness.<br />
+									LOGO</a></h2>
+								</header>
+								<a href="#joewellness" class="image fit scrolly">
+									<img src="images/Joewellness Logo/average red without backg.png" alt="" />
+								</a>
+								<br>
+								<h4>Wellness Center Business. Olongapo City.<h4>
+
+										<ul class="actions special">
+												<li><a href="joewellness.html" class="button">See More</a></li>
+										</ul>
+							</article>
+
+					<!-- End of Joewellness Branding -->
+
+					<!-- Start of Muncheese's Branding -->
+						<article>
+							<header>
+								<span class="date">2019.</span>
+								<h2><a id="muncheese" class="muncheese">Muncheese.<br />
+								LOGO</a></h2>
+							</header>
+							<a href="#muncheese" class="image fit scrolly ">
+							<img style="width:90%; margin-left: 20px;" src="images/muncheese/muncheese- v3.png" alt="" /></a>
+							<h4>Resto-Cafe. Algarve, Portugal.<h4>	
+									<ul class="actions special">
+											<li><a href="muncheese.html" class="button">See More</a></li>
+									</ul>
+						</article>
+					<!-- End of of Muncheese's Branding -->
+
+					<!-- Start of Subic Paws article. -->								
+						<article>
+								<header>
+									<span class="date" id="subicpaws">2019.</span>
+									<h2><a id="subicpaws">Subic Paws. 
+										<br />User Interface Design</a></h2>
+								</header>
+								<a href="#subicpaws" class="image fit scrolly">
+									<img src="images/subicpaws/Subic Paws- Landing Page.png" alt="A simple mock-up design" onclick="changeImage()" />
+								</a>
+								<br>
+								<h4>Pet Adoption Website. Subic.</h4>
+								
+									<ul class="actions special">
+										<li><a href="subicpaws.html" class="button">See more</a></li>
+									</ul>
+							</article>
+					<!-- End of Subic Paws article. -->		
+
+
+					<!-- Start of smart iot Website -->
+						<article>
+								<header>
+									<span class="date">2020.</span>
+									<h2 style="font-size:26px;"><a id="smartiot">Smart Thinking. 
+										Happy Living. 
+									<br />Website</a></h2>
+								</header>
+								<a href="#smartiot" class="image fit scrolly"><img src="images/smartiot/smartiot.JPG" alt="smartiot" />
+								</a>
+								<br>
+								<h4>Smart IoT Website. Dubai.<h4>	
+									<ul class="actions special">
+										<li><a href="smartiot.html" class="button">See More</a></li>
+									</ul>
+							</article>
+					<!-- End of smart iot Website-->
+
+
+					<!-- Start of Moro Website -->
+						<article>
+								<header>
+									<span class="date">2020.</span>
+									<h2 style="font-size:26px;"><a id="moro">MORO IoT Platform.
+									<br />Web Design</a></h2>
+								</header>
+								<a href="#moro" class="image fit scrolly">
+									<img src="images/moro/Moro.JPG" alt="" />
+								</a>
+								<br>
+								<h4>IoT Platform Landing Page Design . Dubai.<h4>	
+									<ul class="actions special">
+										<li><a href="moro.html" class="button">See More</a></li>
+									</ul>
+							</article>
+					<!-- End of Moro Website-->
+
+					<!-- Start of Disrupt-X Website -->
+						<article>
+								<header>
+									<span class="date">2020.</span>
+									<h2><a id="Disrupt-X">Disrupt-X.
+									<br />Website</a></h2>
+								</header>
+								<a href="#Disrupt-X" class="image fit scrolly">
+									<img src="images/disruptx/disrupt-x.JPG" alt="Disrupt-X" />
+								</a>
+								<h4>Disrupt-X Website. Dubai, UAE.<h4>	
+									<ul class="actions special">
+										<li><a href="disrupt-x.html" class="button">See More</a></li>
+									</ul>
+							</article>
+					<!-- End of Disrupt-X Website-->
+					
+					<!-- Start of Disrupt-X Web PLATFORM -->
+						<article>
+								<header>
+									<span class="date">2021.</span>
+									<h2><a id="Disrupt-X">Disrupt-X.
+									<br />User Interface Design</a></h2>
+								</header>
+								<a href="#Disrupt-XWebApp" class="image fit scrolly">
+									<img src="images/disruptx/dxwebapplogin.jpg" alt="Disrupt-XWebApp" />
+								</a>
+								<h4>Log In Page for Web App. Platform. Dubai, UAE.<h4>	
+									<ul class="actions special">
+										<li><a href="disrupt-x-web-app.html" class="button">See More</a></li>
+									</ul>
+							</article>
+					<!-- End of Disrupt-X Web PLATFORM-->
+
+
+				
+
+						<!-- Start of Treasury's Infomercial Creation -->
+						<article>
+							<header>
+								<span class="date">2017.</span>
+								<h2><a id="TreasuryInfomercial">Treasury Department.<br />
+								Infomercial</a></h2>
+							</header>
+							<a href="#TreasuryInfomercial" class="image fit scrolly"><img src="images/Infomercial- Cover.png" alt="" /></a>
+							<h4>Infomercial Procedure. CITY HALL.<h4>	
+									<ul class="actions special">
+											<li><a href="infomercial.html" class="button">See More</a></li>
+									</ul>
+						</article>
+					<!-- End of of Treasurer's Infomercial Creation -->
+
+					<!-- Start of Project Teaser Creation -->
+						<article>
+							<header>
+								<span class="date">2017.</span>
+								<h2><a id="Runway101">Runway101.<br />
+								Short Video</a></h2>
+							</header>
+							<a href="#Runway101" class="image fit scrolly"><img src="images/Model Runway Cover.png" alt="" /></a>
+							<h4>Runway Snippet. Subic Bay.<h4>	
+								<ul class="actions special">
+										<li><a href="runway.html" class="button">See More</a></li>
+								</ul>
+					</article>
+				<!-- End of of Project Teaser Infomercial Creation -->
+
+				<!-- Start of Project Teaser Creation -->
+					<article>
+						<header>
+							<span class="date">2017.</span>
+							<h2><a id="ProjectTeaser">THESISSOBER.<br />
+							Teaser</a></h2>
+						</header>
+						<a href="#ProjectTeaser" class="image fit scrolly"><img src="images/Thesis Sober.jfif" alt="" /></a>
+							<h4>Teaser Project. Olongapo City.<h4>	
+								<ul class="actions special">
+										<li><a href="teaser.html" class="button">See More</a></li>
+								</ul>
+							</article>
+				<!-- End of of Project Teaser Infomercial Creation -->
+
+				
+							</section>
+						</div>
+						<!-- Footer  
+							<footer>
+								<div class="pagination">
+									<!--<a href="#" class="previous">Prev</a> 
+									<a href="#" class="page active">1</a>
+									<a href="#" class="page">2</a>
+									<a href="#" class="page">3</a>
+									<span class="extra">&hellip;</span>
+									<a href="#" class="page">8</a>
+									<a href="#" class="page">9</a>
+									<a href="#" class="page">10</a>
+									<a href="#" class="next">Next</a>
+								</div>
+							</footer> -->
+						<!-- Footer -->
+						
+					<footer id="footer">
+						<section>
+
+								<div class="fields">
+									<div class="field">
+										<label for="name">Name</label>
+										<input type="text" name="name" id="name"/>
+									</div>
+									<div class="field">
+										<br>
+										<label for="email">Email</label>
+										<input type="text" name="Nemail" id="val1" />
+										<br>
+									</div>
+									<div class="field">
+										<br>
+										<label for="message">Message</label>
+										<Input type="text" name="Nmessage" id="val2" rows="3" />
+										<br>
+										 
+									 
+									</div>
+								</div>
+								<ul class="actions">
+									<li>
+										<br>
+										<button onclick="myFunction()">Send Message</button>
+								 </li>
+								</ul>
+
+						</section>
+						<section class="split contact">
+							<section class="alt">
+								<h3>Address</h3>
+								<p>Dubai, UAE<br />
+								</p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="https://web.whatsapp.com/">+971 52 326 9177</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="https://mail.google.com/mail">marquiazucena@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									<li><a href="https://www.behance.net/marquigabriele" class="icon brands fa-behance"><span class="label">Behance</span></a></li>
+									<li><a href="https://github.com/marquicruz" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+									<li><a href="https://www.instagram.com/marquicruise/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>				
+<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>Copyright &copy; 2018 </li><li> Marqui Cruz </a></li></ul>
+					</div>
+
+			</div>
+
+			<script type="text/javascript">
+				function myFunction() {
+				var a = document.getElementById("val1").value;
+				var b = document.getElementById("val2").value;
+					Email.send({
+				
+					  // change
+					Host : "smtp.elasticemail.com",
+				
+					// change
+					Username : "marquiazucena@gmail.com",
+				
+					// change
+					Password : "E3C3CE974F21A4022E1BC52C4B22626EE531",
+				
+					// email mo
+					To : 'marquiazucena@gmail.com',
+				
+					// email mo
+					From : 'marquiazucena@gmail.com',
+				
+				
+					Subject : "This is the subject",
+					Body : b + a
+				}).then(
+				  message => alert(message)
+				);
+				}
+				  </script>
+						<!-- Scripts -->
+							<script src="assets/js/jquery.min.js"></script>
+							<script src="assets/js/jquery.scrollex.min.js"></script>
+							<script src="assets/js/jquery.scrolly.min.js"></script>
+							<script src="assets/js/browser.min.js"></script>
+							<script src="assets/js/breakpoints.min.js"></script>
+							<script src="assets/js/util.js"></script>
+							<script src="assets/js/main.js"></script>
+							<script src="https://smtpjs.com/v3/smtp.js"></script>
+<!--- JS script to disable right click -->
+<script language="JavaScript">
+	document.oncontextmenu =new Function("return false;")
+	</script>    
+	<body onselectstart="return false">
+	<!--- JS script to disable right click -->
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+	var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+	(function(){
+	var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+	s1.async=true;
+	s1.src='https://embed.tawk.to/5e36d7f6298c395d1ce5c900/default';
+	s1.charset='UTF-8';
+	s1.setAttribute('crossorigin','*');
+	s0.parentNode.insertBefore(s1,s0);
+	})();
+	</script>
+	<!--End of Tawk.to Script-->
+
+					</body>
+				</html>
+				
